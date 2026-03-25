@@ -1,8 +1,8 @@
 class Binman < Formula
   desc "Terminal UI HTTP client for browsing and executing .http files"
   homepage "https://github.com/bgunnarsson/binman"
-  url "https://github.com/bgunnarsson/binman/archive/refs/tags/v1.0.4.tar.gz"
-  sha256 "2d84812bbd75eadce02da73fc891131dd396751f17cca923a37bbd496a56e45f"
+  url "https://github.com/bgunnarsson/binman/archive/refs/tags/v1.0.5.tar.gz"
+  sha256 "4db0be5955f4445a48412aa059c05cbab7a68364c06a3c45ec93e4aec9714ded"
   license "MIT"
 
   depends_on "go" => :build
